@@ -4,9 +4,9 @@
 <h1>Tainá Cerqueira </h1>
 
 <p> I’m currently learning Python.</p>
-<p> I’m looking to collaborate on TITAN, UFBA's junior enterprise. </p>
-<p> I’m interested in everything that bring me knowledge.</p>
-  
+<p> Collaborate on TITAN, UFBA's junior enterprise. </p>
+<p> Everything that bring me knowledge.</p>
+ 
  
   
   
