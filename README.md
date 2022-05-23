@@ -6,7 +6,7 @@
 <h2> About me: </h1>
 
 <p> 💻 Currently learning Python,</p>
-<p> 💼 Collaborate on TITAN, UFBA's junior enterprise </p>
+<p> 💼 Collaborate on TITAN, UFBA's junior enterprise (trainee).</p>
 <p> 🏃‍♀️ Searching for everything that bring me knowledge.</p>
  
  
